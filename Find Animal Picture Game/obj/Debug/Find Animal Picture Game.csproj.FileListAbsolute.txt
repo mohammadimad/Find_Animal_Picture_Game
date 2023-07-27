@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Find Animal Picture Game\bin\Debug\Find Animal Picture Game.exe.config
+C:\Users\HP\source\repos\Find Animal Picture Game\bin\Debug\Find Animal Picture Game.exe
+C:\Users\HP\source\repos\Find Animal Picture Game\bin\Debug\Find Animal Picture Game.pdb
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find Animal Picture Game.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find_Animal_Picture_Game.Form1.resources
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find_Animal_Picture_Game.Properties.Resources.resources
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find Animal Picture Game.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find Animal Picture Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find Animal Picture Game.exe
+C:\Users\HP\source\repos\Find Animal Picture Game\obj\Debug\Find Animal Picture Game.pdb

@@ -373,6 +373,7 @@ namespace Find_Animal_Picture_Game
         timer1_btn.Start();
         btn_Start.Enabled = false;
         Random random = new Random();
+        LoadAnimalsPictures();
         ShowQuestion(animal[random.Next(0, 9)]);
     }
 
